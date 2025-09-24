@@ -1,0 +1,14 @@
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\bin\Debug\net8.0\Assignment-16.exe
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\bin\Debug\net8.0\Assignment-16.deps.json
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\bin\Debug\net8.0\Assignment-16.runtimeconfig.json
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\bin\Debug\net8.0\Assignment-16.dll
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\bin\Debug\net8.0\Assignment-16.pdb
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.AssemblyInfoInputs.cache
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.AssemblyInfo.cs
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.csproj.CoreCompileInputs.cache
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.dll
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\refint\Assignment-16.dll
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.pdb
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\Assignment-16.genruntimeconfig.cache
+C:\Users\mdsam\source\repos\Assignment-16\Assignment-16\obj\Debug\net8.0\ref\Assignment-16.dll

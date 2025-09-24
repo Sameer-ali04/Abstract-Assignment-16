@@ -12,7 +12,7 @@ namespace Assignment_16
         public static void Main(string[] args)
         {
 
-           /* Console.WriteLine("Demo of Linq Concepts");
+           Console.WriteLine("Demo of Linq Concepts");
 
             IList ar = new ArrayList();
             Console.WriteLine("Enter your name");
@@ -33,7 +33,7 @@ namespace Assignment_16
             foreach (var i in elements)
             {
                 Console.WriteLine(i);
-            }*/
+            }
 
             IList<Employee> emp = new List<Employee>() {
                 new Employee() { EmployeeID = 1, EmployeeName = "John", Age = 33} ,
@@ -135,3 +135,4 @@ namespace Assignment_16
 
 
 }
+
